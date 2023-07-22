@@ -1,0 +1,16 @@
+{
+  "bottomTabs": {
+    "main": "Главная",
+    "services": "Сервисы"
+  },
+  "mainTabs": {
+    "news": "Новости",
+    "recommended": "Recommended",
+    "music": "Music",
+    "it": "IT",
+    "football": "Football",
+    "design": "Design",
+    "beauty": "Beauty",
+    "health": "Health"
+  }
+}
