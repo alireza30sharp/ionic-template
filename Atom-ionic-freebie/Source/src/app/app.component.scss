@@ -1,0 +1,26 @@
+ion-menu {
+
+  ion-content {
+    --background:  var(--dv-background-accent);
+}
+
+  ion-content {
+    ion-list {
+      background: var(--dv-background-accent) !important;
+    }
+  }
+
+  ion-header {
+    padding: 10px;
+    background-color: var(--dv-background-accent-dark);
+
+    img {
+      width: 50px;
+    }
+
+    p {
+      padding-top: 10px;
+      line-height: 24px;
+    }
+  }
+}
